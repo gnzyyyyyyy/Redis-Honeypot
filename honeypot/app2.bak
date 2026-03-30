@@ -1,0 +1,46 @@
+import socket
+import json
+import datetime
+import base64
+
+LOG_FILE = "/logs/redis.log"
+
+def log_event(event, ip=None, cmd=None):
+    entry = {
+        "event": event,
+        "time": datetime.datetime.utcnow().isoformat() + "Z"
+    }
+    if ip: entry["ip"] = ip
+    if cmd:
+        safe_cmd = cmd.replace("\\", "\\\\").replace("\n", "\\n").replace("\r", "\\r")
+        entry["cmd"] = safe_cmd
+
+    with open(LOG_FILE, "a") as f:
+        f.write(json.dumps(entry) + "\n")
+
+def run():
+    sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    sock.bind(("0.0.0.0", 6379))
+    sock.listen(100)
+
+    log_event("started", cmd="Redis honeypot listening on 6379")
+
+    while True:
+        conn, addr = sock.accept()
+        ip = addr[0]
+
+        log_event("connect", ip=ip)
+
+        try:
+            data = conn.recv(2048)
+            if data:
+                cmd = data.decode(errors="ignore").strip()
+                log_event("command", ip=ip, cmd=cmd)
+                conn.send(b"+OK\r\n")
+        except:
+            pass
+
+        conn.close()
+
+if __name__ == "__main__":
+    run()

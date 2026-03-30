@@ -1,0 +1,12 @@
+<source>
+  @type tail
+  path /var/log/honeypot/redis.log
+  pos_file /var/log/honeypot/redis.pos
+  tag redis.honeypot
+  format json
+  read_from_head false
+</source>
+
+<match redis.honeypot>
+  @type null
+</match>

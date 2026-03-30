@@ -1,0 +1,90 @@
+version: "3.9"
+
+services:
+  redis_honeypot:
+    build: ./honeypot
+    container_name: redis_honeypot
+    ports:
+      - "6379:6379"
+    volumes:
+      - ./honeypot/logs:/logs
+    restart: always
+    networks:
+      - honeynet
+
+  fluentd:
+    build: ./fluentd
+    container_name: fluentd
+    user: root
+    volumes:
+      - ./honeypot/logs:/var/log/honeypot
+    ports:
+      - "24224:24224"
+      - "24224:24224/udp"
+    restart: always
+    networks:
+      - honeynet
+
+  clickhouse:
+    image: clickhouse/clickhouse-server:latest
+    container_name: clickhouse
+    environment:
+      CLICKHOUSE_USER: default
+      CLICKHOUSE_PASSWORD: mypassword123
+      CLICKHOUSE_DB: honeypot
+    ports:
+      - "8123:8123"
+      - "9000:9000"
+    volumes:
+      - ./clickhouse/data:/var/lib/clickhouse/
+      - ./clickhouse/init.sql:/docker-entrypoint-initdb.d/init.sql
+    restart: always
+    networks:
+      - honeynet
+
+  ingester:
+    build: ./ingester
+    container_name: ingester
+    depends_on:
+      - clickhouse
+    volumes:
+      - ./honeypot/logs:/logs
+    restart: always
+    networks:
+      - honeynet
+
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.17.0
+    container_name: elasticsearch
+    environment:
+      - discovery.type=single-node
+      - ES_JAVA_OPTS=-Xms512m -Xmx512m
+      - xpack.security.enabled=false
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    volumes:
+      - ./elasticsearch/data:/usr/share/elasticsearch/data
+    ports:
+      - "9200:9200"
+    restart: always
+    networks:
+      - honeynet
+
+  kibana:
+    image: docker.elastic.co/kibana/kibana:7.17.0
+    container_name: kibana
+    environment:
+      - ELASTICSEARCH_HOSTS=http://elasticsearch:9200
+    ports:
+      - "5601:5601"
+    depends_on:
+      - elasticsearch
+    restart: always
+    networks:
+      - honeynet
+
+networks:
+  honeynet:
+    driver: bridge

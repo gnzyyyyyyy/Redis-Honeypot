@@ -1,0 +1,14 @@
+FROM fluent/fluentd:v1.16-1
+
+USER root
+
+# Install required build tools for Ruby native extensions
+RUN apk add --no-cache build-base ruby-dev
+
+# Install JSON parser plugin
+RUN gem install fluent-plugin-parser
+RUN gem install fluent-plugin-elasticsearch -v 5.3.0
+
+COPY fluent.conf /fluentd/etc/fluent.conf
+
+USER fluent
